@@ -4,7 +4,12 @@ title = "About"
 
 ## About Me
 
-{{< figure class="avatar" src="/avatar.jpg" alt="avatar">}}
+{{< figure class="avatar" src="/IMG_3334_profilepic.jpg" alt="avatar">}}
+Hi! I'm Venky, a software engineer, learning machine learning. I've worked in Computer Vision in grad school, and find deep learning fascinating. I've built pipelines using Apache Ariflow, versioned models using ML flow and deployed models to the google cloud platform.
+<br/>Before gradschool, from 2014 to 2021 I worked as a software developer for Cognizant and Accenture. I helped build applications for american commercial insurance clients.
+As of 2024, I've completed the Masters in AI program from Khoury College at Northeastern University. I'm looking for full time SWE+ML roles anywhere in the US.
+<br/>Please reach me via email : [venks.mail@gmail.com](mailto:venks.mail@gmail.com)
+
 
 This is a Hugo based resume template. You can find the full source code on
 [GitHub](https://github.com/ojroques/hugo-researcher).
