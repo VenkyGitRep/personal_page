@@ -1,5 +1,5 @@
-title = "Researcher"
-baseURL = "https://example.com"
+title = "Venky"
+baseURL = "https://venkateshwaransundar.com"
 theme = "researcher"
 disableKinds = ["taxonomy", "term"]
 enableEmoji = true
@@ -7,8 +7,8 @@ math = false          # enable KaTeX (https://katex.org/) globally
 googleAnalytics = ""  # add your tracking id
 
 [params]
-  author = "Olivier Roques"
-  description = "A simple monospaced resume theme for Hugo."
+  author = "Venkateshwaran Sundar"
+  description = "I've forked a simple monospaced resume theme for Hugo."
   favicon = "favicon.ico"  # path to a .ico to use as favicon
   logo = ""  # url or path to a logo to put in the header
   [params.footer]
