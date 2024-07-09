@@ -5,8 +5,8 @@ Hi! I'm Venky, a software engineer, learning machine learning. I've worked in Co
 <br/>Before gradschool, from 2014 to 2021 I worked as a software developer for Cognizant and Accenture. I helped build applications for american commercial insurance clients.
 As of 2024, I've completed the Masters in AI program from Khoury College at Northeastern University. I'm looking for full time SWE+ML roles anywhere in the US.
 <br/>Please reach me via email : [venks.mail@gmail.com](mailto:venks.mail@gmail.com)
-
 <div style="clear:both"></div>
+
 ## Education
 
 **MS in Artificial Intelligence, Northeastern University**
