@@ -2,8 +2,8 @@
 title = "Contact"
 +++
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
-* Phone: [+91-123123](tel:+91-123123)
+* Email: [venks.mail@gmail.com](mailto:venks.mail@gmail.com)
+<!-- * Phone: [+91-123123](tel:+91-123123)-->
 
 ---
 
