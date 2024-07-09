@@ -1,6 +1,6 @@
 ## About Me
 
-<img  src="IMG_3335_profilepic.jpg" style="width:30%;height:40%" align="right">
+<img  src="/exampleSite/static/IMG_3335_profilepic.jpg" style="width:30%;height:40%" align="right">
 Hi! I'm Venky, a software engineer, learning machine learning. I've worked in Computer Vision in grad school, and find deep learning fascinating. I've built pipelines using Apache Ariflow, versioned models using ML flow and deployed models to the google cloud platform.
 <br/>Before gradschool, from 2014 to 2021 I worked as a software developer for Cognizant and Accenture. I helped build applications for american commercial insurance clients.
 As of 2024, I've completed the Masters in AI program from Khoury College at Northeastern University. I'm looking for full time SWE+ML roles anywhere in the US.
